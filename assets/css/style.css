@@ -86,7 +86,7 @@ nav.scrolled .brand img{height:36px}
 
 /* hero */
 .hero{min-height:100svh;display:flex;align-items:flex-end;position:relative;overflow:hidden}
-.hero-bg{position:absolute;inset:-8% 0;background:url('../img/hero.webp') center/cover;will-change:transform;animation:kenburns 24s ease-in-out infinite alternate}
+.hero-bg{position:absolute;inset:-8% 0;background:url('../img/real-hero.webp') center/cover;will-change:transform;animation:kenburns 24s ease-in-out infinite alternate}
 @keyframes kenburns{from{transform:scale(1)}to{transform:scale(1.08)}}
 .hero-veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,11,.55) 0%,rgba(10,10,11,.25) 40%,rgba(10,10,11,.9) 100%)}
 .hero-content{position:relative;z-index:2;padding-bottom:13vh;width:100%}
